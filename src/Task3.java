@@ -21,7 +21,7 @@ public class Task3 {
                     wordFrequencyMap.put(word, wordFrequencyMap.getOrDefault(word, 0) + 1);
                 }
             }
-        } catch (IOException e) {
+        } catch (IOException e)  {
             e.printStackTrace();
         }
 

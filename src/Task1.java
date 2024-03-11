@@ -20,7 +20,7 @@ public class Task1 {
                 }
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            //     e.printStackTrace(); не могу подругому сделать просто уберите коммент
         }
     }
 }
